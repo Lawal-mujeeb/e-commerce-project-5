@@ -1,0 +1,11 @@
+======Git and Github=====
+git status-this caan be done at anytime
+git-init -initialize an empty git folder( only in a new project)
+git add .
+git commit -m "first commit"       m means message
+note lastly git push as far is an existing project
+
+
+
+git-branch-main
+git remote add origin
